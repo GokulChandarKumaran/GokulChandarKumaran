@@ -1,4 +1,6 @@
-# Gokul Chandar Kumaran
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GokulChandarKumaran/GokulChandarKumaran/main/assets/dark.svg" width="100%" alt="Gokul Chandar Kumaran — Data Analyst, Business Analyst, AI Engineer" />
+</p>
 
 MS Data Analytics Engineering at Northeastern University, Boston — December 2026.
 Nine months of healthcare analytics through a co-op, and prior data engineering
