@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GokulChandarKumaran/GokulChandarKumaran/main/assets/dark.svg" width="100%" alt="Gokul Chandar Kumaran — Data Analyst, Business Analyst, AI Engineer" />
+  <img src="https://raw.githubusercontent.com/GokulChandarKumaran/GokulChandarKumaran/main/assets/dark.svg?v=2" width="100%" alt="Gokul Chandar Kumaran — Data Analyst, Business Analyst, AI Engineer" />
 </p>
 
 MS Data Analytics Engineering at Northeastern University, Boston — December 2026.
