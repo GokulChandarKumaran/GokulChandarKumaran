@@ -30,6 +30,7 @@ suite, and several ship a FastAPI service and a React front end.
 
 ## Elsewhere
 
+- Portfolio — https://gokulchandarkumaran.github.io
 - LinkedIn — https://www.linkedin.com/in/gokul-chandar-kumaran-b171211a1
 - gokulchandarkumaran@gmail.com
 
